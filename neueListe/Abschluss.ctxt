@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Abschluss
+comment1.params=
+comment1.target=Abschluss()
+comment2.params=
+comment2.target=int\ laengeGeben()
+comment3.params=d
+comment3.target=Datenelement\ endeGeben(Datenelement)
+comment4.params=d
+comment4.target=Listenelement\ knotenEntfernen(Datenelement)
+comment5.params=d
+comment5.target=Listenelement\ hintenEinfuegen(Datenelement)
+comment6.params=schluessel
+comment6.target=Datenelement\ suche(java.lang.String)
+comment7.params=dneu\ vergleichswert
+comment7.target=Listenelement\ einfuegenVor(Datenelement,\ Datenelement)
+numComments=8

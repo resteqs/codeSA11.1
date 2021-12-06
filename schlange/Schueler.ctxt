@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Schueler
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Schueler.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=schuelername
+comment1.target=Schueler(java.lang.String)
+comment2.params=neuernachfolger
+comment2.target=void\ nachfolgersetzten(Schueler)
+comment3.params=
+comment3.target=Schueler\ nachfolgergeben()
+comment4.params=
+comment4.target=void\ informationenausgeben()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=neuesDelement
+comment1.target=Knoten(Schueler)
+comment2.params=
+comment2.target=Schueler\ datemelementgeben()
+comment3.params=neuernachfolger
+comment3.target=void\ nachfolgerSetzen(Knoten)
+comment4.params=
+comment4.target=Knoten\ nachfolgergeben()
+comment5.params=
+comment5.target=void\ InformationAusgeben()
+numComments=6

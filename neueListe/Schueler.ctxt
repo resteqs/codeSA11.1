@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Schueler
+comment1.params=neuerName
+comment1.target=Schueler(java.lang.String)
+comment2.params=
+comment2.target=void\ informationenAusgeben()
+comment3.params=d
+comment3.target=boolean\ istKleinerAls(Datenelement)
+comment4.params=s
+comment4.target=boolean\ schluesselIstGleich(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ schluesselGeben()
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=neuesElement
+comment1.target=Knoten(Datenelement)
+comment10.params=d
+comment10.target=Knoten\ knotenEntfernen(Datenelement)
+comment11.params=
+comment11.target=Datenelement\ endeGeben()
+comment2.params=neuesElement\ neuerKnoten
+comment2.target=Knoten(Datenelement,\ Knoten)
+comment3.params=
+comment3.target=Datenelement\ datenelementGeben()
+comment4.params=
+comment4.target=Knoten\ nachfolgerGeben()
+comment5.params=
+comment5.target=int\ restlaengeGeben()
+comment6.params=dneu
+comment6.target=void\ knotenEinfuegen(Datenelement)
+comment7.params=vergleichswert
+comment7.target=Datenelement\ suchen(java.lang.String)
+comment8.params=dneu\ vergleich
+comment8.target=Knoten\ einfuegenVor(Datenelement,\ Datenelement)
+comment9.params=dneu
+comment9.target=Knoten\ sortiertEinfuegen(Datenelement)
+numComments=12

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Datenelement
+comment1.params=
+comment1.target=void\ informationenAusgeben()
+comment2.params=d
+comment2.target=boolean\ istKleinerAls(Datenelement)
+comment3.params=s
+comment3.target=boolean\ schluesselIstGleich(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ schluesselGeben()
+numComments=5

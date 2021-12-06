@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=List
+comment1.params=
+comment1.target=List()
+comment10.params=d
+comment10.target=void\ knotenEntfernen(Datenelement)
+comment2.params=
+comment2.target=int\ laengeGeben()
+comment3.params=vergleichswert
+comment3.target=Datenelement\ suchen(java.lang.String)
+comment4.params=dneu
+comment4.target=void\ hintenEinfuegen(Datenelement)
+comment5.params=dneu
+comment5.target=void\ vorneEinfuegen(Datenelement)
+comment6.params=dneu\ vergleich
+comment6.target=void\ vordatenelementEinf\u00FCgen(Datenelement,\ Datenelement)
+comment7.params=dneu
+comment7.target=void\ sortiertEinfuegen(Datenelement)
+comment8.params=
+comment8.target=Datenelement\ anfangEntfernen()
+comment9.params=
+comment9.target=Datenelement\ endeEntfernen()
+numComments=11
