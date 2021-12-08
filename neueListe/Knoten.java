@@ -30,10 +30,7 @@ public class Knoten extends Listenelement
         }
         else
         {
-            if (nachfolger != null)
-            {
-                nachfolger = nachfolger.knotenEntfernen(d);
-            }
+            nachfolger = nachfolger.knotenEntfernen(d);
             return this;
         }
     }
